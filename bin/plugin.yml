@@ -1,0 +1,6 @@
+name: PlanksFromLogs
+version: 1.0
+author: Jordan.Mason
+main: me.jordan.planksfromlogs.Main
+description: Planks from logs plugin
+api-version: 1.15
